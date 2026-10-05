@@ -6,9 +6,9 @@
 [![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow?style=for-the-badge)](#)
 
 > **Projeto Final de Programação Orientada a Objetos (POO) – 2026.2**  
-> **Professor:** Roger Moura Sarmento
-> **Instituição:** Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) 
-> **Startup:** Prosa Code
+> **Professor:** Roger Moura Sarmento.
+> **Instituição:** Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
+> **Startup:** Prosa Code.
 
 ---
 
