@@ -28,20 +28,15 @@ docs/ui-ux/
 │   └── README.md
 └── 📱 prototypes/          # Protótipos interativos
 ```
+## 🗂️ Arquivos Presentes
 
-### 📋 Detalhamento dos Arquivos e Subpastas
-
-| Subpasta / Arquivo | Descrição do Recurso | Finalidade / Aplicação |
-| :--- | :--- | :--- |
-| **`wireframes/EsboçoDaLogo.jpg`** | Rascunho inicial feito à mão do logotipo. | Concepção da identidade da marca. |
-| **`wireframes/esboçoBanner.jpg`** | Esboço manual da composição do banner. | Planejamento de layout promocional. |
-| **`mockups/BannerOficial.png`** | Banner oficial finalizado da Prosa Code. | Apresentações e cabeçalho de repositório. |
-| **`mockups/logo.jpeg`** | Logotipo em alta resolução. | Marca oficial em telas e documentos. |
-| **`mockups/paletas.jpeg`** | Guia visual da paleta de cores. | Padronização de cores no Java FX |
-
----
-
-## 🎨 Especificações de Identidade Visual
+| Arquivo | Formato | Descrição Detalhada | Aplicação no Projeto |
+| :--- | :---: | :--- | :--- |
+| **`LoginDesktop.jpg`** | Imagem (`.jpg`) | Interface widescreen (16:9) em pixel art com estante de livros, café, campos de login e bordas botânicas. | Guia oficial para a classe `LoginView.java` em Java Swing. |
+| **`LoginMobile.jpg`** | Imagem (`.jpg`) | Interface em formato vertical adaptada para exibição em dispositivos móveis. | Referência para proporções e responsividade. |
+| **`SeleçãoAcesso.jpg`** | Imagem (`.jpg`) | Mockup da tela de seleção pós-login para escolha entre *Agenda de Contatos* e *App Prosa Code*. | Guia oficial para a classe `SelecaoView.java`. |
+| **`prosa-code-login.mp4`** | Vídeo (`.mp4`) | Animação em pixel art exibindo a entrada do texto de boas-vindas e o crescimento dinâmico das plantas. | Mídia para defesas do projeto e apresentações. |
+--
 
 ### ☕ Paleta de Cores Oficial
 
@@ -57,8 +52,3 @@ A estética do projeto combina o aconchego de um café com a tranquilidade de um
 
 ---
 
-## 🚀 Recomendações para a Equipe de Desenvolvedores
-
-1. **Fidelidade Visual (Front-end):** Os desenvolvedores responsáveis pela interface (**Agatha** e **Eduardo**) devem utilizar o arquivo `mockups/paletas.jpeg` e a prototipagem em `prototypes/preview_login.html` como guia obrigatório para configurar cores e fontes.
-2. **Padrão de Pixel Art (16-bits):** Caso precise adicionar novos componentes visuais, garanta que mantenham contornos nítidos e a estética retro/botânica do projeto.
-3. **Inclusão de Novos Artefatos:** Ao criar novas telas ou esboços manuais, salve os arquivos na subpasta correspondente (`wireframes/`, `mockups/` ou `prototypes/`) e atualize as tabelas deste `README.md`.
