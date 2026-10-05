@@ -20,13 +20,11 @@ Seu objetivo é garantir a consistência estética e servir de referência diret
 ```text
 docs/ui-ux/
 ├── ✏️ wireframes/          # Esboços e rascunhos manuais
-│   ├── EsboçoDaLogo.jpg
-│   ├── esboçoBanner.jpg
-│   └── README.md
 ├── 🖼️ mockups/             # Artes em alta fidelidade, logos e paleta
-│   ├── BannerOficial.png
-│   ├── logo.jpeg
-│   ├── paletas.jpeg
+│   ├── LoginDesktop.jpg
+│   ├── LoginMobile.jpg
+│   ├── SeleçãoAcesso.jpg
+│   ├── prosa-code-login.mp4
 │   └── README.md
 └── 📱 prototypes/          # Protótipos interativos
 ```
