@@ -9,7 +9,7 @@
 
 ## 📝 Descrição e Finalidade
 
-Este diretório armazena todo el ecossistema de **Design de Interface (UI)** e **Experiência do Usuário (UX)** da **Prosa Code**. Aqui estão consolidados a identidade visual, paleta de cores oficial, esboços manuais (*wireframes*), guias gráficos (*mockups*), protótipos interativos e prompts de mídia em *pixel art* botânico/café.
+Este diretório armazena todo o ecossistema de **Design de Interface (UI)** e **Experiência do Usuário (UX)** da **Prosa Code**. Aqui estão consolidados a identidade visual, paleta de cores oficial, esboços manuais (*wireframes*), guias gráficos (*mockups*), protótipos interativos e prompts de mídia em *pixel art* botânico/café.
 
 Seu objetivo é garantir a consistência estética e servir de referência direta para a equipe de desenvolvimento front-end durante a implementação das telas em Java Swing.
 
@@ -41,9 +41,9 @@ docs/ui-ux/
 | **`wireframes/esboçoBanner.jpg`** | Esboço manual da composição do banner. | Planejamento de layout promocional. |
 | **`mockups/BannerOficial.png`** | Banner oficial finalizado da Prosa Code. | Apresentações e cabeçalho de repositório. |
 | **`mockups/logo.jpeg`** | Logotipo em alta resolução. | Marca oficial em telas e documentos. |
-| **`mockups/paletas.jpeg`** | Guia visual da paleta de cores. | Padronização de cores no Java Swing. |
+| **`mockups/paletas.jpeg`** | Guia visual da paleta de cores. | Padronização de cores no Java FX |
 | **`prototypes/preview_login.html`** | Protótipo interativo web em Pixel Art 16-bits. | Simulação real de comportamento da tela de Login. |
-| **`prototypes/prompts_video_animacao.md`** | Prompts estruturados para IAs de vídeo (Runway, Kling, Luma). | Geração da animação cinematográfica de enraizamento. |
+| **`prototypes/prompts_video_animacao.md`** | Prompts estruturados para IAs de vídeo. | Geração da animação cinematográfica de enraizamento. |
 
 ---
 
@@ -65,6 +65,6 @@ A estética do projeto combina o aconchego de um café com a tranquilidade de um
 
 ## 🚀 Recomendações para a Equipe de Desenvolvedores
 
-1. **Fidelidade Visual (Front-end):** Os desenvolvedores responsáveis pela interface (**Agatha** e **Eduardo**) devem utilizar o arquivo `mockups/paletas.jpeg` e a prototipagem em `prototypes/preview_login.html` como guia obrigatório para configurar cores (`java.awt.Color`) e fontes no Swing.
+1. **Fidelidade Visual (Front-end):** Os desenvolvedores responsáveis pela interface (**Agatha** e **Eduardo**) devem utilizar o arquivo `mockups/paletas.jpeg` e a prototipagem em `prototypes/preview_login.html` como guia obrigatório para configurar cores e fontes.
 2. **Padrão de Pixel Art (16-bits):** Caso precise adicionar novos componentes visuais, garanta que mantenham contornos nítidos e a estética retro/botânica do projeto.
-3. **Inclusão de Novos Artefatos:** Ao criar novas telas no Figma ou esboços manuais, salve os arquivos na subpasta correspondente (`wireframes/`, `mockups/` ou `prototypes/`) e atualize as tabelas deste `README.md`.
+3. **Inclusão de Novos Artefatos:** Ao criar novas telas ou esboços manuais, salve os arquivos na subpasta correspondente (`wireframes/`, `mockups/` ou `prototypes/`) e atualize as tabelas deste `README.md`.
