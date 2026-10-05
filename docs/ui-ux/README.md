@@ -28,7 +28,7 @@ docs/ui-ux/
 │   ├── logo.jpeg
 │   ├── paletas.jpeg
 │   └── README.md
-└── 📱 prototypes/          # Protótipos interativos e prompts de IA
+└── 📱 prototypes/          # Protótipos interativos
 ```
 
 ### 📋 Detalhamento dos Arquivos e Subpastas
