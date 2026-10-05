@@ -3,7 +3,7 @@
 [![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![JavaFX](https://img.shields.io/badge/GUI-JavaFX%20%2F%20CSS-blue?style=for-the-badge&logo=java&logoColor=white)](https://openjfx.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow?style=for-the-badge)](#))
 
 > **Projeto Final de Programação Orientada a Objetos (POO) – 2026.2**  
 > **Professor:** Roger Moura Sarmento
