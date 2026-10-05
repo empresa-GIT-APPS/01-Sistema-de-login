@@ -29,8 +29,6 @@ docs/ui-ux/
 │   ├── paletas.jpeg
 │   └── README.md
 └── 📱 prototypes/          # Protótipos interativos e prompts de IA
-    ├── preview_login.html
-    └── prompts_video_animacao.md
 ```
 
 ### 📋 Detalhamento dos Arquivos e Subpastas
@@ -42,8 +40,6 @@ docs/ui-ux/
 | **`mockups/BannerOficial.png`** | Banner oficial finalizado da Prosa Code. | Apresentações e cabeçalho de repositório. |
 | **`mockups/logo.jpeg`** | Logotipo em alta resolução. | Marca oficial em telas e documentos. |
 | **`mockups/paletas.jpeg`** | Guia visual da paleta de cores. | Padronização de cores no Java FX |
-| **`prototypes/preview_login.html`** | Protótipo interativo web em Pixel Art 16-bits. | Simulação real de comportamento da tela de Login. |
-| **`prototypes/prompts_video_animacao.md`** | Prompts estruturados para IAs de vídeo. | Geração da animação cinematográfica de enraizamento. |
 
 ---
 
