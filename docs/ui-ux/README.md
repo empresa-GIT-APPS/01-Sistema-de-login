@@ -1,7 +1,7 @@
 # 🎨 Design de Interface e Identidade Visual — `/docs/ui-ux`
 
 > **Startup:** Prosa Code  
-> **Projeto:** Sistema de Gestão para Sebos e Livrarias  
+> **Projeto:** 01-sistema-login (Módulo de Autenticação e Controle de Acesso)
 > **Disciplina:** Programação Orientada a Objetos (POO) — IFCE  
 > **Docente:** Prof. Roger Moura Sarmento  
 
