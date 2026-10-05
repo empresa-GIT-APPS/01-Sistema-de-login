@@ -9,9 +9,9 @@
 
 ## 📝 Descrição e Finalidade
 
-Este diretório armazena todo o ecossistema de **Design de Interface (UI)** e **Experiência do Usuário (UX)** da **Prosa Code**. Aqui estão consolidados a identidade visual, paleta de cores oficial, esboços manuais (*wireframes*), guias gráficos (*mockups*), protótipos interativos e prompts de mídia em *pixel art* botânico/café.
+Este diretório armazena todo o ecossistema de **Design de Interface (UI)** e **Experiência do Usuário (UX)** focado no **Módulo de Login (01-sistema-login)** da **Prosa Code**. Aqui estão consolidados os rascunhos manuais (*wireframes*), a identidade visual em *pixel art* 16-bits botânico/café, as telas em alta fidelidade (*mockups* estáticos e em vídeo) e os protótipos de navegação da tela de autenticação e seleção.
 
-Seu objetivo é garantir a consistência estética e servir de referência direta para a equipe de desenvolvimento front-end durante a implementação das telas em Java Swing.
+Seu objetivo é garantir a fidelidade estética e servir de referência direta para a equipe de desenvolvimento front-end durante a implementação das interfaces em **JavaFX** (FXML / Scene Builder e folhas de estilo CSS).
 
 ---
 
