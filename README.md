@@ -22,12 +22,12 @@ A aplicação tem como finalidade realizar a autenticação inicial do usuário 
 
 ## 🎯 Funcionalidades
 
-- [x] 🔑 **Tela de Login:** Interface gráfica JavaFX (FXML/CSS) para inserção de usuário e senha.
-- [x] 🛡️ **Validação de Credenciais:** Autenticação local verificando o usuário padrão (`root`) e senha (`toor`).
-- [x] ⚠️ **Tratamento de Erros:** Exibição de alertas visuais e mensagens estilizadas caso o usuário ou senha estejam incorretos.
-- [x] 🎛️ **Tela de Seleção de Módulos:** Menu principal exibido após o login bem-sucedido.
-- [x] 🔄 **Navegação e Retorno:** Botão "Voltar" na Tela de Seleção que encerra o menu e reabre a tela de login.
-- [x] 🔗 **Atalhos de Integração:** Botões preparados para integração com os repositórios `02-agenda-contatos` e `03-projeto-livre`.
+-  🔑 **Tela de Login:** Interface gráfica JavaFX (FXML/CSS) para inserção de usuário e senha.
+-  🛡️ **Validação de Credenciais:** Autenticação local verificando o usuário padrão (`root`) e senha (`toor`).
+-  ⚠️ **Tratamento de Erros:** Exibição de alertas visuais e mensagens estilizadas caso o usuário ou senha estejam incorretos.
+-  🎛️ **Tela de Seleção de Módulos:** Menu principal exibido após o login bem-sucedido.
+-  🔄 **Navegação e Retorno:** Botão "Voltar" na Tela de Seleção que encerra o menu e reabre a tela de login.
+-  🔗 **Atalhos de Integração:** Botões preparados para integração com os repositórios `02-agenda-contatos` e `03-projeto-livre`.
 
 ---
 
@@ -44,13 +44,12 @@ A aplicação tem como finalidade realizar a autenticação inicial do usuário 
 
 A estrutura de diretórios deste repositório segue rigorosamente o padrão adotado pela nossa Startup, conforme orientado no Guia de Organização do GitHub (Versão 2.0)
 
-> 📌 **Nota:** Como este projeto realiza validação local e não necessita de banco de dados MySQL, a pasta `database/` foi omitida deste repositório conforme as instruções da disciplina.
-
 ```text
 🔐 01-sistema-login/
 ├── 📖 README.md
 ├── ⚖️ LICENSE
 ├── 🚫 .gitignore
+├── 💻 databases/
 │
 ├── 💻 src/
 │
